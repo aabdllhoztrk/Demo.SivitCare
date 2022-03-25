@@ -1,0 +1,15 @@
+D:\Projeler\DevOps\general\Test\Selenium\Demo.SivitCare\Demo.SivitCare\bin\Debug\Demo.SivitCare.dll.config
+D:\Projeler\DevOps\general\Test\Selenium\Demo.SivitCare\Demo.SivitCare\bin\Debug\Demo.SivitCare.dll
+D:\Projeler\DevOps\general\Test\Selenium\Demo.SivitCare\Demo.SivitCare\bin\Debug\Demo.SivitCare.pdb
+D:\Projeler\DevOps\general\Test\Selenium\Demo.SivitCare\Demo.SivitCare\bin\Debug\nunit.framework.dll
+D:\Projeler\DevOps\general\Test\Selenium\Demo.SivitCare\Demo.SivitCare\bin\Debug\SeleniumExtras.WaitHelpers.dll
+D:\Projeler\DevOps\general\Test\Selenium\Demo.SivitCare\Demo.SivitCare\bin\Debug\WebDriver.dll
+D:\Projeler\DevOps\general\Test\Selenium\Demo.SivitCare\Demo.SivitCare\bin\Debug\WebDriver.Support.dll
+D:\Projeler\DevOps\general\Test\Selenium\Demo.SivitCare\Demo.SivitCare\bin\Debug\nunit.framework.xml
+D:\Projeler\DevOps\general\Test\Selenium\Demo.SivitCare\Demo.SivitCare\bin\Debug\WebDriver.xml
+D:\Projeler\DevOps\general\Test\Selenium\Demo.SivitCare\Demo.SivitCare\bin\Debug\WebDriver.Support.xml
+D:\Projeler\DevOps\general\Test\Selenium\Demo.SivitCare\Demo.SivitCare\obj\Debug\Demo.SivitCare.Selenium.csproj.AssemblyReference.cache
+D:\Projeler\DevOps\general\Test\Selenium\Demo.SivitCare\Demo.SivitCare\obj\Debug\Demo.SivitCare.Selenium.csproj.CoreCompileInputs.cache
+D:\Projeler\DevOps\general\Test\Selenium\Demo.SivitCare\Demo.SivitCare\obj\Debug\Demo.SivitCare.Selenium.csproj.CopyComplete
+D:\Projeler\DevOps\general\Test\Selenium\Demo.SivitCare\Demo.SivitCare\obj\Debug\Demo.SivitCare.dll
+D:\Projeler\DevOps\general\Test\Selenium\Demo.SivitCare\Demo.SivitCare\obj\Debug\Demo.SivitCare.pdb
